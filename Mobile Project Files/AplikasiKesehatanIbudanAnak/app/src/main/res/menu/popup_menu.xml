@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/pm1"
+        android:title="Catatan Kesehatan"/>
+
+    <item
+        android:id="@+id/pm2"
+        android:title="Persiapan Persalinan"/>
+
+</menu>

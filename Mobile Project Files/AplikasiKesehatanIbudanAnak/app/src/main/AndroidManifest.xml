@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="apps.lutfi.aplikasikesehatanibudananak">
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation"
+            android:label="Aplikasi KIA Segeri"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DaftarActivity"
+            android:label="Identitas Ibu" />
+        <activity
+            android:name=".InfoIbuAnakActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity android:name=".HalamanIbuActivity" />
+        <activity android:name=".HalamanAnakActivity" />
+        <activity android:name=".SettingAkunActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity
+            android:name=".CatKesehatanIbuActivity"
+            android:label="Catatan Kesehatan Ibu" />
+        <activity
+            android:name=".PersiapanPersalinanActivity"
+            android:label="Persiapan Menyambut Persalinan" />
+        <activity android:name=".KetLahir" />
+        <activity android:name=".CatImunisasiActivity"></activity>
+    </application>
+
+</manifest>

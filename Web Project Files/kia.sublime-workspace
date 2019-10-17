@@ -1,0 +1,1477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"na",
+				"name\tAttr"
+			],
+			[
+				"icon",
+				"iconPath"
+			],
+			[
+				"ico",
+				"iconPath"
+			],
+			[
+				"cs",
+				"css\t.css() - single"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"tabl",
+				"tableHeader"
+			],
+			[
+				"has",
+				"hasilPencarian"
+			],
+			[
+				"form",
+				"form1"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"nam",
+				"nama"
+			],
+			[
+				"txtNa",
+				"txtNama"
+			],
+			[
+				"txtno",
+				"txtNoKetLahir"
+			],
+			[
+				"txt",
+				"txtTglVaksin"
+			],
+			[
+				"no",
+				"noKTP"
+			],
+			[
+				"thi",
+				"this\t$(this)"
+			],
+			[
+				"this",
+				"this\t$(this)"
+			],
+			[
+				"dc",
+				"document"
+			],
+			[
+				"use",
+				"userLogin"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pen",
+				"pendonorTelp"
+			],
+			[
+				"att",
+				"attr\t.attr() - single"
+			],
+			[
+				"jns",
+				"jns_kelahiran"
+			],
+			[
+				"jn",
+				"jnsKelahiran"
+			],
+			[
+				"pe",
+				"pendonorTelp"
+			],
+			[
+				"pend",
+				"pendonorTelp"
+			],
+			[
+				"ambula",
+				"ambulanceTelp"
+			],
+			[
+				"am",
+				"ambulance"
+			],
+			[
+				"cmb",
+				"cmbJnsKelahiran"
+			],
+			[
+				"txtke",
+				"txtKelahiranKe"
+			],
+			[
+				"d",
+				"disabled\tAttr"
+			],
+			[
+				"nama",
+				"nama_suami"
+			],
+			[
+				"j",
+				"jk"
+			],
+			[
+				"insert",
+				"insertTbRegAnak"
+			],
+			[
+				"gen",
+				"generateIdAnak"
+			],
+			[
+				"alama",
+				"Alamat"
+			],
+			[
+				"nik",
+				"nik_suami"
+			],
+			[
+				"peke",
+				"pekerjaan_suami"
+			],
+			[
+				"umu",
+				"umur_ayah"
+			],
+			[
+				"id_",
+				"id_penolong_persalinan"
+			],
+			[
+				"saksi",
+				"nama_saksi2"
+			],
+			[
+				"saks",
+				"nama_saksi1"
+			],
+			[
+				"tem",
+				"tempat_lahir"
+			],
+			[
+				"ber",
+				"berat_lahir"
+			],
+			[
+				"kelahiran",
+				"kelahiran_ke"
+			],
+			[
+				"jeni",
+				"jns_kelahiran"
+			],
+			[
+				"tgl",
+				"tgl_lahir"
+			],
+			[
+				"update",
+				"updateTbRegAnak"
+			],
+			[
+				"txtPe",
+				"txtPekerjaanAyah"
+			],
+			[
+				"txtUmu",
+				"txtUmurAyah"
+			],
+			[
+				"txtNI",
+				"txtNIKAyah"
+			],
+			[
+				"txtnam",
+				"txtNamaAyah"
+			],
+			[
+				"txtni",
+				"txtNIKIbu"
+			],
+			[
+				"txtpe",
+				"txtPekerjaanIbu"
+			],
+			[
+				"txtNam",
+				"txtNamaIbu"
+			],
+			[
+				"lbl",
+				"lblNamaTempatPersalinan"
+			],
+			[
+				"txtala",
+				"txtAlamatTempatPersalinan"
+			],
+			[
+				"txtSa",
+				"txtSaksi2"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"cariData",
+				"cariDataCatatanKesehatan"
+			],
+			[
+				"cari",
+				"cariDataCatatanKesehatan"
+			],
+			[
+				"upda",
+				"updateTbDonor"
+			],
+			[
+				"updat",
+				"updateTbPersiapan"
+			],
+			[
+				"large",
+				"larger\tfont-size"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ambu",
+				"ambulanceTelp"
+			],
+			[
+				"amb",
+				"ambulanceNama"
+			],
+			[
+				"id_bida",
+				"id_bidan1"
+			],
+			[
+				"dana",
+				"dana_persalinan"
+			],
+			[
+				"row",
+				"rowHasil"
+			],
+			[
+				"meto",
+				"metode_kb"
+			],
+			[
+				"inserttb",
+				"insertTbDonor"
+			],
+			[
+				"txtte",
+				"txtTelpAmbulan1"
+			],
+			[
+				"txtnama",
+				"txtNamaAmbulan1"
+			],
+			[
+				"cmbpe",
+				"cmbPetugas1"
+			],
+			[
+				"ths",
+				"this\t$(this)"
+			],
+			[
+				"formE",
+				"formEditCatKesehatanIbuHamil"
+			],
+			[
+				"stat",
+				"statsuNoReg"
+			],
+			[
+				"kol",
+				"kolom2"
+			],
+			[
+				"kolo",
+				"kolom1"
+			],
+			[
+				"btn",
+				"btnCari"
+			],
+			[
+				"car",
+				"cariDataCatatanKesehatan"
+			],
+			[
+				"fouc",
+				"focusout\t.focusout()"
+			],
+			[
+				"ca",
+				"cariDataCatatanKesehatan"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tbl",
+				"tblDataIbu"
+			],
+			[
+				"read",
+				"ready\t$(document).ready"
+			],
+			[
+				"cara",
+				"cara_persalinan"
+			],
+			[
+				"bula",
+				"bulan_tt"
+			],
+			[
+				"jml",
+				"jml_anak_lhr_krg_bln"
+			],
+			[
+				"pa",
+				"jml_paritas"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"foc",
+				"focus\t.focus()"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"focu",
+				"focusout\t.focusout()"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"tr",
+				"trigger\t.trigger()"
+			],
+			[
+				"sub",
+				"submit\t.submit()"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"html",
+				"html\t.html()"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"ready",
+				"ready\t$(document).ready"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"to",
+				"top\tproperty"
+			],
+			[
+				"pla",
+				"plainID"
+			],
+			[
+				"bt",
+				"btnAktivasi"
+			],
+			[
+				"tb",
+				"tblAktivasi"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"hea",
+				"head\tTag"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"link",
+				"linkLPJ"
+			],
+			[
+				"daftar",
+				"daftarIdStatus"
+			],
+			[
+				"opt",
+				"optStatus"
+			],
+			[
+				"on",
+				"on\t.on()"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bidan/editCatKesehatanIbuHamil.php",
+			"settings":
+			{
+				"buffer_size": 10156,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bidan/dataIbuHamil.php",
+			"settings":
+			{
+				"buffer_size": 8611,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSublimeLinter\n-------------\n\n  SublimeLinter 4.13\n  ==================\n  \n  - @mheinzler continued his work on multi-file-linters: linters that\n    follow imports or report errors from multiple files in one go. \n  \n    Plugin authors interested in this feature should capture and report \n    `filename`, either automatically using a named group in their regex,\n    or manually when yielding a `LintMatch`.\n  \n  - @HusamIbrahim rewrote the executable lookup algorithm for `NodeLinter`. \n    We now support eslint v6, the new yarn pnp mode, lerna.\n  \n    * You need yarn v1.8 or even yarn berry for pnp mode.\n      Thanks to @arcanis who is the tech lead of yarn for\n      answering our questions and quickly merging a PR. \n  \n  - The setting 'kill_old_processes' now defaults to `True`. The setting \n    controls whether SublimeLinter actively kills processes whose results\n    are already outdated, e.g. because the view changed in the meantime. \n  \n    This should save CPU time and battery. We've been testing this for a\n    while and there doesn't seem to be a negative impact, so it's time to\n    flip the switch.\n  \n  \n  For more info: \n    https://github.com/SublimeLinter/SublimeLinter/milestone/11\n    https://github.com/SublimeLinter/SublimeLinter/compare/4.12.0...4.13.0\n",
+			"settings":
+			{
+				"buffer_size": 1332,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "bidan/cariNoKetLahir.php",
+			"settings":
+			{
+				"buffer_size": 1053,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bidan/css/main.css",
+			"settings":
+			{
+				"buffer_size": 2229,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"emm",
+				"Emmet: Merge Lines"
+			],
+			[
+				"emmert",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 568.0,
+		"history":
+		[
+			"exit",
+			"npm",
+			"npm install jshint --global",
+			"clear",
+			"cls",
+			"clear",
+			"lorem",
+			"relaunch",
+			"!",
+			"help",
+			"quit()",
+			"Quit ST",
+			"Quit",
+			"reset_font_size"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/kia",
+		"/C/xampp/htdocs/kia/bidan",
+		"/C/xampp/htdocs/kia/ibu"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/kia/ibu/ketLahirAnak.php",
+		"/C/xampp/htdocs/kia/ibu/prosesEntriIdentitasIbu.php",
+		"/C/xampp/htdocs/kia/ibu/index.php",
+		"/C/xampp/htdocs/kia/bidan/loadingDataRegIbu.php",
+		"/C/xampp/htdocs/kia/bidan/editKetLahir.php",
+		"/C/xampp/htdocs/kia/bidan/index.php",
+		"/C/xampp/htdocs/kia/bidan/entriKetLahir.php",
+		"/C/xampp/htdocs/kia/login.php",
+		"/C/xampp/htdocs/kia/ibu/identitasIbu.php",
+		"/C/xampp/htdocs/kia/ibu/editMenyambutPersalinan.php",
+		"/C/xampp/htdocs/kia/ibu/editCatKesehatanIbuHamil.php",
+		"/C/xampp/htdocs/kia/ibu/dataBayi.php",
+		"/C/xampp/htdocs/kia/ibu/entriKetLahir.php",
+		"/C/xampp/htdocs/kia/ibu/editKetLahir.php",
+		"/C/xampp/htdocs/kia/ibu/entriCatKesehatanIbuHamil.php",
+		"/C/xampp/htdocs/kia/ibu/entriMenyambutPersalinan.php",
+		"/C/xampp/htdocs/kia/ibu/dataIbuHamil.php",
+		"/C/xampp/htdocs/kia/ibu/namaKecamatan.php",
+		"/C/xampp/htdocs/kia/bidan/identitasIbu.php",
+		"/C/xampp/htdocs/psa/index.php",
+		"/C/xampp/htdocs/psa/test.php",
+		"/C/xampp/htdocs/kia/loadCatImunisasi.php",
+		"/C/xampp/htdocs/kia/index.php",
+		"/C/xampp/htdocs/kia/apk/index.php",
+		"/C/xampp/htdocs/kia/simpanRegistrasi.php",
+		"/C/xampp/htdocs/kia/editCatKesehatanIbuHamil.php",
+		"/C/xampp/htdocs/kia/entriCatKesehatanIbuHamil.php",
+		"/C/xampp/htdocs/kia/prosesEntriPersiapan.php",
+		"/C/xampp/htdocs/kia/prosesEditPersiapan.php",
+		"/C/xampp/htdocs/kia/dataCatImunisasi.php",
+		"/C/xampp/htdocs/kia/dataBayi.php",
+		"/C/xampp/htdocs/kia/editKetLahir.php",
+		"/C/xampp/htdocs/kia/cariDataCatatanImunisasi.php",
+		"/C/xampp/htdocs/kia/editAkunBidan.php",
+		"/C/xampp/htdocs/kia/entriCatImunisasi.php",
+		"/C/xampp/htdocs/kia/prosesEntriCatImunisasi.php",
+		"/C/xampp/htdocs/kia/cariNoKetLahir.php",
+		"/C/xampp/htdocs/kia/entriKetLahir.php",
+		"/C/xampp/htdocs/kia/tambahBidan.php",
+		"/C/xampp/htdocs/kia/prosesTambahBidan.php",
+		"/C/xampp/htdocs/kia/dataBidan.php",
+		"/C/xampp/htdocs/kia/prosesEditAkunBidan.php",
+		"/C/xampp/htdocs/kia/cekUsername.php",
+		"/C/xampp/htdocs/kia/cekKTPBidan.php",
+		"/C/xampp/htdocs/kia/registrasi.php",
+		"/C/xampp/htdocs/kia/simpanKetLahirAndroid.php",
+		"/C/xampp/htdocs/kia/simpanAkun.php",
+		"/C/xampp/htdocs/kia/identitasIbu.php",
+		"/C/xampp/htdocs/kia/loadingDataRegIbu.php",
+		"/C/xampp/htdocs/kia/dataIbuHamil.php",
+		"/C/xampp/htdocs/kia/prosesLogin.php",
+		"/C/xampp/htdocs/kia/cariNoRegDataBayi.php",
+		"/C/xampp/htdocs/kia/loadingDataCatKesehatan.php",
+		"/C/xampp/htdocs/kia/loadingDataPersiapan.php",
+		"/C/xampp/htdocs/kia/prosesEditKetLahir.php",
+		"/C/xampp/htdocs/kia/loadingKetLahir.php",
+		"/C/xampp/htdocs/kia/prosesRegistrasi.php",
+		"/C/xampp/htdocs/kia/prosesEntriKetLahir.php",
+		"/C/xampp/htdocs/kia/loginAndroid.php",
+		"/C/xampp/htdocs/kia/editMenyambutPersalinan.php",
+		"/C/xampp/htdocs/kia/cariNoRegPersiapan.php",
+		"/C/xampp/htdocs/kia/entriMenyambutPersalinan.php",
+		"/C/xampp/htdocs/kia/entriKakiBengkak.php",
+		"/C/xampp/htdocs/kia/css/main.css",
+		"/C/xampp/htdocs/kia/cariDataCatatanKesehatan.php",
+		"/C/xampp/htdocs/kia/cariDataPersiapan.php",
+		"/C/xampp/htdocs/kia/outputRegistrasi.php",
+		"/C/xampp/htdocs/kia/prosesEditCatIbuHamil.php",
+		"/C/xampp/htdocs/kia/cariNoReg.php",
+		"/C/xampp/htdocs/kia/prosesEntriCatIbuHamil.php",
+		"/C/xampp/htdocs/kia/css/demo.css",
+		"/C/xampp/htdocs/kia/css/component.css",
+		"/C/xampp/htdocs/kia/scripts/select/dist/css/bootstrap-select.css",
+		"/C/xampp/htdocs/kia/test.php",
+		"/C/xampp/htdocs/kia/conn.php",
+		"/C/xampp/htdocs/kia/ketLahirAnak.php",
+		"/C/Users/lutfi/Desktop/buku kia/front.jpg",
+		"/C/xampp/htdocs/psbasadiyah/editDataCalonSantri.php",
+		"/C/xampp/htdocs/psbasadiyah/registrasiSantri.php",
+		"/C/xampp/htdocs/psbasadiyah/detailCalonSantri.php",
+		"/C/xampp/htdocs/psbasadiyah/header4.php",
+		"/C/xampp/htdocs/psbasadiyah/header5.php",
+		"/C/xampp/htdocs/psbasadiyah/header.php",
+		"/C/xampp/htdocs/psbasadiyah/header2.php",
+		"/C/xampp/htdocs/lpjbos/aktivasiUser.php",
+		"/C/xampp/htdocs/lpjbos/header.php",
+		"/C/xampp/htdocs/lpjbos/headerOperator.php",
+		"/C/xampp/htdocs/lpjbos/scripts/main.css",
+		"/C/xampp/htdocs/lpjbos/headerPemeriksa.php",
+		"/C/xampp/htdocs/lpjbos/updateAktivasi.php",
+		"/C/xampp/htdocs/lpjbos/headerOperator2.php",
+		"/C/xampp/htdocs/lpjbos/downloadLPJ.php",
+		"/C/xampp/htdocs/lpjbos/editDataOperator.php",
+		"/C/xampp/htdocs/lpjbos/editDataPemeriksa.php",
+		"/C/xampp/htdocs/lpjbos/editDataMadrasah.php",
+		"/C/xampp/htdocs/lpjbos/detailUploadUlang.php",
+		"/C/xampp/htdocs/lpjbos/alasanUploadUlang.php",
+		"/C/xampp/htdocs/lpjbos/detailPengajuanMadrasah.php",
+		"/C/xampp/htdocs/lpjbos/penilaianLPJ.php",
+		"/C/xampp/htdocs/lpjbos/pengajuanLPJ.php",
+		"/C/Users/lutfi/AppData/Roaming/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
+		"/C/Users/lutfi/AppData/Roaming/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+		"/C/Users/lutfi/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/lutfi/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/xampp/htdocs/lpjbos/simpanDataPemeriksa.php",
+		"/C/xampp/htdocs/lpjbos/cekUsername.php",
+		"/C/xampp/htdocs/lpjbos/test.php",
+		"/C/Users/lutfi/AppData/Roaming/Sublime Text 3/Packages/JSHint/Base File.sublime-settings",
+		"/C/Users/lutfi/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/xampp/htdocs/lpjbos/test.html",
+		"/C/Users/lutfi/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/xampp/htdocs/lpjbos/tampilPengajuanLPJ.php",
+		"/C/xampp/htdocs/lpjbos/tampilPengajuanLPJJenjang.php",
+		"/C/xampp/htdocs/lpjbos/prosesPengajuanLPJ.php",
+		"/C/xampp/htdocs/lpjbos/cekStatusLPJ.php",
+		"/C/xampp/htdocs/lpjbos/updateStatusPenilaian.php",
+		"/C/Users/lutfi/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/xampp/htdocs/lpjbos/form04.php",
+		"/C/xampp/htdocs/lpjbos/form08.php",
+		"/C/xampp/htdocs/lpjbos/form07.php",
+		"/C/Users/lutfi/AppData/Roaming/Sublime Text 3/Packages/PHP Completions Kit/README.md",
+		"/C/xampp/htdocs/lpjbos/namaMadrasahSudahUpload.php",
+		"/C/xampp/htdocs/lpjbos/updateAlasanUploadUlang.php",
+		"/C/xampp/htdocs/lpjbos/clearUploadUlang1.php",
+		"/C/xampp/htdocs/lpjbos/clearUploadUlang2.php",
+		"/C/xampp/htdocs/lpjbos/prosesUploadUlang2.php",
+		"/C/xampp/htdocs/lpjbos/prosesUploadUlang1.php",
+		"/C/xampp/htdocs/lpjbos/uploadFile.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 229.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\kia\\ibu"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loadingHalaman",
+			"formEntriKetLahir",
+			"txtNoReg",
+			"\"",
+			"%Y/%m/%d",
+			"on(\"submit\"",
+			"formEntriCatKesehatanIbuHamil",
+			"txtNoJkn",
+			"$metodeKB",
+			" readonly=\"readonly\" ",
+			"tb_bidan.id_bidan",
+			"btnSimpan",
+			"tampil()",
+			"Package\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			" %d-%m-%Y",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bidan/editCatKesehatanIbuHamil.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"SL.116.region_keys":
+							[
+							],
+							"SL.13.region_keys":
+							[
+							],
+							"SL.17.region_keys":
+							[
+							],
+							"SL.27.region_keys":
+							[
+							],
+							"SL.43.region_keys":
+							[
+							],
+							"SL.52.region_keys":
+							[
+							],
+							"SL.68.region_keys":
+							[
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 758.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bidan/dataIbuHamil.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2510,
+								2545
+							]
+						],
+						"settings":
+						{
+							"SL.117.region_keys":
+							[
+							],
+							"SL.18.region_keys":
+							[
+							],
+							"SL.29.region_keys":
+							[
+							],
+							"SL.44.region_keys":
+							[
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1605.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1332,
+								1332
+							]
+						],
+						"settings":
+						{
+							"SL.21.region_keys":
+							[
+							],
+							"auto_indent": false,
+							"default_dir": "C:\\xampp\\htdocs\\kia\\ibu",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bidan/cariNoKetLahir.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.22.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.47.region_keys":
+							[
+							],
+							"SL.66.region_keys":
+							[
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bidan/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2229,
+						"regions":
+						{
+							"gutter_color_1004":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#A00088.png",
+								"regions":
+								[
+									[
+										1004,
+										1031
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1032":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1032,
+										1046
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1078":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/darkred.png",
+								"regions":
+								[
+									[
+										1078,
+										1115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1116":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1116,
+										1130
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1157":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/gray.png",
+								"regions":
+								[
+									[
+										1157,
+										1191
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1192":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1192,
+										1206
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_132":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										132,
+										157
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1355":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/gray.png",
+								"regions":
+								[
+									[
+										1355,
+										1385
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1386":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#5E5E5E.png",
+								"regions":
+								[
+									[
+										1386,
+										1402
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1438":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ddd.png",
+								"regions":
+								[
+									[
+										1438,
+										1462
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1481":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#f2f2f2.png",
+								"regions":
+								[
+									[
+										1481,
+										1539
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1541":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1541,
+										1596
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1598":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1598,
+										1657
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1737":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ff00d8.png",
+								"regions":
+								[
+									[
+										1737,
+										1764
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1765":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										1765,
+										1779
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1790":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#636363.png",
+								"regions":
+								[
+									[
+										1790,
+										1806
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_494":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/lightgray.png",
+								"regions":
+								[
+									[
+										494,
+										523
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_560":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/gray.png",
+								"regions":
+								[
+									[
+										560,
+										594
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_60":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/gray.png",
+								"regions":
+								[
+									[
+										60,
+										90
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_757":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ff00d8.png",
+								"regions":
+								[
+									[
+										757,
+										784
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_785":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										785,
+										799
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_921":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/red.png",
+								"regions":
+								[
+									[
+										921,
+										958
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_959":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/gray.png",
+								"regions":
+								[
+									[
+										959,
+										1003
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								2184,
+								2009
+							]
+						],
+						"settings":
+						{
+							"SL.20.region_keys":
+							[
+							],
+							"SL.30.region_keys":
+							[
+							],
+							"SL.45.region_keys":
+							[
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1767.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "kia.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"te",
+				"test.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"cariNoKetLahir.php",
+				"cariNoKetLahir.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"entri",
+				"entriKetLahir.php"
+			],
+			[
+				"prosesedit",
+				"prosesEditAkunBidan.php"
+			],
+			[
+				"tamba",
+				"tambahBidan.php"
+			],
+			[
+				"loadin",
+				"loadingDataRegIbu.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
