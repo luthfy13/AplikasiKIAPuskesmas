@@ -6,7 +6,7 @@
   - username: bidan1
   - password: 123
 ### login ibu:
-  - username: husni
+  - username: ibu1
   - password: 123
 
 hubungi saya via facebook untuk info lebih lanjut di https://facebook.com/luthfy13
